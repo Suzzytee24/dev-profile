@@ -6,3 +6,5 @@ Skills:
 -Python
 -Git
 -FastAPI
+Contact:
+Email: opesuzzyblessing@gmail.com
